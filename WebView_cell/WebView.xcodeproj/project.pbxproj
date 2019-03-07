@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		480D6E501CCF3A70004DD4FB /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 480D6E4E1CCF3A70004DD4FB /* TableViewCell.m */; };
+		B352F5E122311FEE001D59F1 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B352F5E022311FEE001D59F1 /* TestViewController.m */; };
 		C62C07EA1CCF2C10008F73C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C62C07E91CCF2C10008F73C7 /* main.m */; };
 		C62C07ED1CCF2C10008F73C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C62C07EC1CCF2C10008F73C7 /* AppDelegate.m */; };
 		C62C07F01CCF2C10008F73C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C62C07EF1CCF2C10008F73C7 /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		480D6E4D1CCF3A70004DD4FB /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
 		480D6E4E1CCF3A70004DD4FB /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		B352F5DF22311FEE001D59F1 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		B352F5E022311FEE001D59F1 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		C62C07E41CCF2C10008F73C7 /* WebView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C62C07E81CCF2C10008F73C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C62C07E91CCF2C10008F73C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -88,6 +91,8 @@
 				C62C07EC1CCF2C10008F73C7 /* AppDelegate.m */,
 				C62C07EE1CCF2C10008F73C7 /* ViewController.h */,
 				C62C07EF1CCF2C10008F73C7 /* ViewController.m */,
+				B352F5DF22311FEE001D59F1 /* TestViewController.h */,
+				B352F5E022311FEE001D59F1 /* TestViewController.m */,
 				C62C07F11CCF2C10008F73C7 /* Main.storyboard */,
 				480D6E4D1CCF3A70004DD4FB /* TableViewCell.h */,
 				480D6E4E1CCF3A70004DD4FB /* TableViewCell.m */,
@@ -228,6 +233,7 @@
 				480D6E501CCF3A70004DD4FB /* TableViewCell.m in Sources */,
 				C62C07ED1CCF2C10008F73C7 /* AppDelegate.m in Sources */,
 				C62C07EA1CCF2C10008F73C7 /* main.m in Sources */,
+				B352F5E122311FEE001D59F1 /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
